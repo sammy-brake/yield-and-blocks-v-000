@@ -1,4 +1,4 @@
-def hello_t
+def hello_t(array)
 counter = 0 
 
 while counter < array.length 
